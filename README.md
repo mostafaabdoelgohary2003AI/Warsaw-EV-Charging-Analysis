@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" width="128" alt="Warsaw-EV-Charging-Analysis logo"></p>
+
 # Warsaw EV Charging Analysis
 
 ## Project Overview
